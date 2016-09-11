@@ -4,10 +4,10 @@
   <title>React y Lumen</title>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" >
   <link href="https://fonts.googleapis.com/css?family=PT+Sans+Narrow" rel="stylesheet">
-  <script src="https://npmcdn.com/react@15.3.0/dist/react.js"></script>
-  <script src="https://npmcdn.com/react-dom@15.3.0/dist/react-dom.js"></script>
-  <script src="https://npmcdn.com/babel-core@5.8.38/browser.min.js"></script>
-  <script src="https://npmcdn.com/jquery@3.1.0/dist/jquery.min.js"></script>
+  <script src="https://unpkg.com/react@15.3.0/dist/react.js"></script>
+  <script src="https://unpkg.com/react-dom@15.3.0/dist/react-dom.js"></script>
+  <script src="https://unpkg.com/babel-core@5.8.38/browser.min.js"></script>
+  <script src="https://unpkg.com/jquery@3.1.0/dist/jquery.min.js"></script>
   <style>
     body {
       font-family: 'PT Sans Narrow', sans-serif;
